@@ -1,14 +1,13 @@
 <h1 align="center">Hi, I'm Drishty Singh</h1>
-<h3 align="center">Final year student of Master's in Mathematical Sciences. My research interests span Functional analysis, Complex Analysis, Operator Theory, Linear Algebra, Quantum Mechanics and advanced Mathematical techniques.</h3>
+<h3 align="center">Final year student of Master's in Mathematical Sciences. My research interests span Functional analysis, Machine Laerning, Operator Theory, Quantum Mechanics and advanced Mathematical techniques.</h3>
 
-- Currently I am grasping the concepts of Dynamic Mode Decomposition (DMD)) [DMD](https://colab.research.google.com/drive/19_bIL0d-jeJA4ch3NINJGA523fKRXruR#scrollTo=J9eawEBescHn)
+- Currently I am grasping the concepts of Dynamic Mode Decomposition (DMD)) 
 
 - Comprehended the crucial concepts of Linear operators for Quantum Mechanics in Summer Research Internship at IIT- Hyderabad **Linear operators for Quantum Mechanics**
 
-- Learnt about Lorenz Equation developed by Edward Lorenz who constructed a highly simplified model of a convecting fluid. This simple model also displays a wide variety of behavior and for some parameter values is chaotic. Thus, the surprising conclusion derived by Lorenz is now popularly known as butterfly effect. [Lorenz](https://colab.research.google.com/drive/18ItinJPxolI3t2sitE3Kiwu_nZA7Nkaj)
+- Learnt about Lorenz Equation developed by Edward Lorenz who constructed a highly simplified model of a convecting fluid. This simple model also displays a wide variety of behavior and for some parameter values is chaotic. Thus, the surprising conclusion derived by Lorenz is now popularly known as butterfly effect. 
 
-- Developed third order derivative of a function related to a Hermite Polynomial. [Hermite](https://colab.research.google.com/drive/1H6Vl5cE9r0DYqgyKjfOIfimQtZfKFtVz)
-
+- Developed third order derivative of a function related to a Hermite Polynomial.
 - 📫 How to reach me **drishtyvnm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
