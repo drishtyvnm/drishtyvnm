@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Drishty Singh</h1>
-<h3 align="center">Final year student of Master's in Mathematical Sciences. My research interests span from Mathematics to mathematical AI. </h3>
+<h3 align="center">Final year student of Master's in Mathematical Sciences. My research interests span from Mathematics to Mathematical AI. </h3>
 
 - Currently I am learning about the concepts of *Dynamic Mode Decomposition* (DMD). 
 
