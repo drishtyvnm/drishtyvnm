@@ -22,6 +22,7 @@ Learnt about Dynamical systems specifically, **Lorenz system** which is simplifi
 ![](https://github-contributor-stats.vercel.app/api?username=drishtyvnm&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=drishtyvnm&icon=3&color=9)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=drishtyvnm&label=Profile%20Views&color=5&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
