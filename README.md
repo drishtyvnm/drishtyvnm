@@ -1,5 +1,5 @@
 # 💫 About Me:
-My research interests spans from Mathematics to Mathematical AI. Currently in my final year of master's, I am grasping about the revolutionary methods for learning governing patterns from sparse data in high dimensional spaces through Machine Learning.<br>
+I'm Drishty Singh, a final year student of Mathemtical Sciences. My research interests spans from Mathematics to Mathematical AI. Currently in my final year of master's, I am grasping about the revolutionary methods for learning governing patterns from sparse data in high dimensional spaces through Machine Learning.<br>
 
 
 ## 🌐 Socials:
