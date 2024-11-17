@@ -1,7 +1,9 @@
 # 💫 About Me:
-My research interests spans from Mathematics to Mathematical AI. Currently in my final year of master's, I am grasping about the revolutionary methods for learning governing patterns from sparse data in high dimensional spaces through Machine Learning.<br>
-Comprehended the crucial concepts of *Linear Operators for Quantum Mechanics* in Summer Undergraduate Research Exposure (SURE) at **Indian Institute of Technology**, IIT-Hyderabad.<br>
-Learnt about Dynamical systems specifically, *Lorenz system* which is simplified, nonlinear system and a paradigm for studying chaos theory and complex systems. Secondly, *Chua's circuit*, a classic example of an electronic circuit that exhibits nonlinear dynamics and chaos.
+
+I'm Drishty Singh, a final year Master's student of *Mathematical Sciences*. <br>
+My research interests spans from Mathematics to Mathematical AI. Currently in my final year of master's, I am grasping about the revolutionary methods for learning governing patterns from **sparse data** in high dimensional spaces through Machine Learning.<br>
+Comprehended the crucial concepts of **Linear Operators for Quantum Mechanics** in Summer Undergraduate Research Exposure (SURE) at **Indian Institute of Technology**, IIT-Hyderabad.<br>
+Learnt about Dynamical systems specifically, **Lorenz system** which is simplified, nonlinear system and a paradigm for studying chaos theory and complex systems. Secondly, **Chua's circuit**, a classic example of an electronic circuit that exhibits nonlinear dynamics and chaos.
 
 
 ## 🌐 Socials:
